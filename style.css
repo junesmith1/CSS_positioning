@@ -15,7 +15,7 @@ html, body {
   width: 15%;
   height: 100vh;
   background: goldenrod;
-  padding: 20px;
+  padding: 30 px 20px;
 }
 
 header {
@@ -45,7 +45,7 @@ header button {
   background: blue;
   color: white;
   border: none;
-  padding: 12px 30px;
+  padding: 12px 50px;
   font-size: 1rem;
   margin: 0 8px;
 }
