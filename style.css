@@ -21,6 +21,13 @@ html, body {
   padding: 30 px 20px;
 }
 
+#jumpMenu h2 {
+  font-size: 28px;
+  margin: 20px 0 30px;
+  padding: 10px;
+  text-align: center;
+}
+
 header {
   position: fixed;
   top: 0;
@@ -69,6 +76,7 @@ main {
 
 #container article {
   width: 300px;
+  margin-bottom: 80px;
 }
 
 #thanks {
