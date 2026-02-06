@@ -23,7 +23,7 @@ html, body {
 
 #jumpMenu h2 {
   font-size: 28px;
-  margin: 20px 0 30px;
+  margin: 10px;
   padding: 10px;
   text-align: center;
 }
@@ -31,7 +31,7 @@ html, body {
 #jumpMenu a {
   display: block;
   text-align: center;
-  margin: 18px 0;
+  margin: 10px 0;
   padding: 10px;
   width: 100%
 }
@@ -51,8 +51,9 @@ header {
 }
 
 header p {
+  font-family: Arial;
   font-size: 2rem;
-  margin: 0;
+  margin: 10px;
 }
 
 header nav {
@@ -70,7 +71,7 @@ header button {
   border: none;
   padding: 12px 50px;
   font-size: 1rem;
-  margin: 0 8px;
+  margin: 20px 8px;
 }
 
 main {
