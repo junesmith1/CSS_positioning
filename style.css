@@ -73,9 +73,9 @@ header button {
   margin: 50px;
 }
 
-header h1 {
+main h1 {
   font-size: 40px;
-  align-items: center;
+  text-align: center;
 }
 
 main {
