@@ -70,7 +70,12 @@ header button {
   border: none;
   padding: 12px 50px;
   font-size: 1rem;
-  margin: 20px 8px;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  align-items: center;
 }
 
 main {
