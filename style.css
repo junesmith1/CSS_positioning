@@ -73,16 +73,17 @@ header button {
   margin: 50px;
 }
 
-main h1 {
-  font-size: 40px;
-  text-align: center;
-}
 
 main {
   margin-left: 15%;
   padding-top: 100px;
   padding-left: 30px;
   padding-right: 30px;
+}
+
+main h1 {
+  font-size: 40px;
+  text-align: center;
 }
 
 #container {
