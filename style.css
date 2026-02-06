@@ -18,20 +18,27 @@ html, body {
   width: 15%;
   height: 100vh;
   background: goldenrod;
-  padding: 30px 20px;
+  padding: 10px;
+}
+
+#jumpMenu br {
+  display: none;
 }
 
 #jumpMenu h2 {
+  font-size: clamp(18px, 2vh, 22px);
   font-size: 28px;
-  padding: 10px;
+  padding: 0;
   text-align: center;
+  margin: 0 0 8px 0;
 }
 
 #jumpMenu a {
+  font-size: clamp(0.8rem, 1.8vh, 1rem);
   display: block;
   text-align: center;
-  margin: 8px;
-  padding: 10px;
+  margin: 2px 0;
+  padding: 4px 0;
   width: 100%
 }
 
